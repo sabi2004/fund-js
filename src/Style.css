@@ -1,0 +1,128 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    padding-left: 1rem;
+    padding-inline-end: 2rem;
+}
+.Nav{
+    display:flex;
+    justify-content: space-between;
+    right: 10px;
+    left:10px;
+    padding: 1 rem 1rem;
+    background-color: bisque;
+    height:fit-content;
+}
+.Name
+{
+    padding-inline-start: 2rem;
+    color:crimson;
+}
+img{
+    width: 600px;
+    height:400px;
+    padding-top: 3rem;
+    padding-inline-end: 2rem;
+}
+.sec
+{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 30px;
+}
+.white
+{
+    font-size: 25px;
+    padding-top: 35px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    color:chocolate;
+}
+.th
+{
+    right: 20px;
+    left:10px;
+}
+.imag
+{
+    display: flex;
+    justify-content: space-between;
+}
+.three
+{
+    width: 150px;
+    height: 150px;
+}
+.foot
+{
+    width: 30px;
+    height:30px;
+}
+.footone
+{
+    display:flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.foottwo
+{
+    font-size: 20px;
+}
+.ft
+{
+    justify-content: center;
+}
+.cnone
+{
+    right:40px;
+    left:40px;
+    background-color: burlywood;
+}
+.cntwo
+{
+    display: flex;
+    justify-content: space-between;
+}
+.help
+{
+    padding-top: 30px;
+}
+.lmone
+{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: x-large;
+}
+.lmtwo
+{
+    color:brown;
+}
+.lmthree
+{
+    color:chocolate;
+}
+.lmfive
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.lmsix
+{
+    background-color: burlywood;
+    height: 100px;
+    padding-top: 30px;
+}
+.lmsev
+{
+    font-size: 30px;
+}
+.lmegt
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}

@@ -1,0 +1,20 @@
+.app-container{
+    display: flex;
+    height: 100vh;
+  }
+  .half-page{
+    flex:1;
+    overflow: hidden;
+  }
+  #image{
+    background-image : url("https://i.pinimg.com/564x/dd/7f/92/dd7f92152c98caafda424d7a7d227d6a.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    width:300px;
+  }
+.page 
+{
+    margin-top: 200px;
+}
