@@ -12,19 +12,25 @@ li{
     right: 10px;
     left:10px;
     padding: 1 rem 1rem;
-    background-color: bisque;
+    background-color: rgb(0, 48, 87);
     height:fit-content;
+}
+.Col
+{
+  color: darkslateblue;
+  background-color: aliceblue;
+
 }
 .Name
 {
     padding-inline-start: 2rem;
-    color:crimson;
+    color:rgb(173, 226, 230);
 }
 img{
     width: 600px;
-    height:400px;
+    height:500px;
     padding-top: 3rem;
-    padding-inline-end: 2rem;
+    padding-inline-end: 5rem;
 }
 .sec
 {
@@ -34,11 +40,11 @@ img{
 }
 .white
 {
+    background-color: aliceblue;
+    color: darkslateblue;
     font-size: 25px;
     padding-top: 35px;
-    padding-left: 25px;
-    padding-bottom: 30px;
-    color:chocolate;
+    padding-left: 30px;
 }
 .th
 {
@@ -65,10 +71,6 @@ img{
     display:flex;
     justify-content: center;
     padding: 1rem;
-}
-.foottwo
-{
-    font-size: 20px;
 }
 .ft
 {
@@ -99,11 +101,13 @@ img{
 }
 .lmtwo
 {
-    color:brown;
+    color:darkred;
+    font-size: 50px;
 }
 .lmthree
 {
-    color:chocolate;
+    color:orangered;
+    font-size: 25px;
 }
 .lmfive
 {
@@ -112,7 +116,7 @@ img{
 }
 .lmsix
 {
-    background-color: burlywood;
+    background-color:bisque;
     height: 100px;
     padding-top: 30px;
 }
@@ -124,5 +128,28 @@ img{
 {
     display: flex;
     justify-content: space-between;
-    padding-top: 40px;
+    padding-top: 40px;
+}
+.lmnin
+{
+    height: 100px;
+    background-color:bisque;
+}
+.pic
+{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 20px; 
+    background-color: aliceblue;
+}
+.fr
+{
+    background-image: url("https://thumbs.dreamstime.com/b/donations-charity-donation-concept-box-white-background-inscription-donate-153541809.jpg");
+}
+.home
+{
+    background-color:rgb(239, 195, 114);
+    color: beige;
+    font-style: normal;
 }
